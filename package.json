@@ -1,0 +1,24 @@
+{
+  "name": "node-peetwopee",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/map34/node-peetwopee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/map34/node-peetwopee/issues"
+  },
+  "homepage": "https://github.com/map34/node-peetwopee#readme",
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "eslint": "^7.26.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
